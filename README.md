@@ -1,4 +1,4 @@
-# MYSQL CRUD Template
+# MONGO CRUD Template
 
 Este repositorio contiene un template para comenzar a realizar un CRUD (Operaciones de Inserción, Actualización, Lectura y Borrado) sobre una base de datos relacional MYSQL. Esta base de datos se levanta utilizando `docker-compose`.
 
